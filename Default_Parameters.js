@@ -1,6 +1,8 @@
 function greet(name) {
     console.log("Hello " + name);
 }
+// TODO: Hello
+
 greet("Max");
 greet();
 
